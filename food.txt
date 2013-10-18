@@ -2,4 +2,8 @@ Some great types of food.
 1)	Green curry
 2)	Tacos
 3)	Coffee
+4)	Chocolate muffins
+5)	Paneer tikka
+6)	Burritos
+7)	Indian curry
 	
